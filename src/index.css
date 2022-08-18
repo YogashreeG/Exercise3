@@ -1,13 +1,15 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.card{
+  box-shadow: 0 4px 8px #09ff00;
+    transition: 0.3s;
+    width: 40%p;
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 50%;
+    top: 60%;
+    right: 50%;
+    color: white;
+    text-align: center;
+    background-color: greenyellow;
+    
 }
